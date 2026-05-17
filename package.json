@@ -1,0 +1,17 @@
+{
+  "name": "flash8-animation",
+  "version": "0.1.0",
+  "description": "Open-source Flash 8-like animation software",
+  "main": "main.js",
+  "homepage": "./",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev"
+  },
+  "devDependencies": {
+    "electron": "^27.0.0"
+  },
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
